@@ -6,3 +6,8 @@ class Student {
    private String name;
    private Int age;
 }
+
+public static String saySomething(){
+    return "新创建一个dev分支"；
+
+}
