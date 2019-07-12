@@ -2,3 +2,7 @@ public static void Main(String args[]){
     System.out.println("helloworld");
     System.out.println("github changes")
 }
+class Student {
+   private String name;
+   private Int age;
+}
